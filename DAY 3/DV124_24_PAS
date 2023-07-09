@@ -1,0 +1,112 @@
+DV300_24_PAS on video related to Clouds and Virtualization
+
+Q1. The traditional way a business operates is by using a different _________ or ____________to run different services according to the business need.
+A1. MACHINES / SERVERS
+
+Q2. A business would use a server to run the ___________ another server would be used for websites and other server is used to run the email service and so on.
+A2. DATABASE
+
+Q3. Can these servers used in businesses be running different operating system?
+A3.	YES (LINUX, SOLARIS, WINDOWS)
+
+Q4. There is a new trend that is happening in the world of IT called Virtualization. (True/False)
+A4. TRUE
+
+Q5. _____________is basically a consolidating all of the physical servers with their different operating systems and applications and running them on just one physical servers in a virtual environment.
+A5. VIRTUALIZATION
+
+Q6. Virtualization saves money and also store space, maintenance and management. (True/false)
+A6. TRUE
+
+Q7. A ____________is not a physical switch but software switches that is created in a virtual environment.
+A7. VIRTUAL SWITCH
+Q8. A ___________performs just like a physical router. It can route data packet between your virtual servers and the internet
+A8. VIRTUAL ROUTER
+
+Q9. Virtual firewall is another virtual device that can filter _____________ and to monitor that traffic for your virtual servers just like a physical firewall does.
+A9. NETWORK TRAFFIC
+
+Q10. ______________ refers to data and applications being stored and run on remote servers rather than being on your local computer.
+A10. CLOUD COMPUTING
+
+Q11. On cloud computing data is on remote servers are accessed and run via the internet. (True/False)
+A11. TRUE
+
+Q11. You can solve the problem of hardware/software failure by _______________
+A11. HAVING A COMPANY HOST SERVERS ON THE CLOUD FOR YOU (EMAIL, WEB SERVERS, DATABASES, ETC.).
+
+Q12. What are the types of cloud computing?
+A12. INFRASTRUCTURE AS A SERVICE
+PLATFORM AS A SERVICE
+SOFTWARE AS A SERVICE
+
+Q13. How does types of cloud computing vary?
+A13. IT VARIES IN CONTROL AND FLEXIBILITY SO THE USER DECIDES WHAT SUITS THEIR NEEDS.
+
+Q14. IAAS is basically when you going to let 3rd party vendor managing hardware portion. (True/False)
+A14. TRUE
+- THE THIRD PARTY WILL MANAGE THE HARDWARE PORTION - SERVERS, STORAGE, VIRTUALIZATION, NETWORKING
+- YOU WILL HAVE CONTROL OVER THE SOFTWARE PORTION - APPLICATIONS, DATA, OPERATING SYSTEM, MIDDLEWARE, RUNTIME
+
+
+Q15. Good example of IAAS will be a web services company like______________ web services.
+A15. AMAZON
+
+Q16. In a PAAS, third party vendor not only manages the hardware but also manages the operating system, middleware and runtime. (True/False)
+A16. TRUE
+
+Q17. A good example of PAAS would be _____________as a cloud computing platform from Microsoft.
+A17. MICROSOFT AZURE
+
+Q18. SAAS stands for ____________
+A18. SOFTWARE AS A SERVICE
+
+Q19. Google apps are great example of SAAS. (True/False)
+A19. TRUE
+YOU DON’T HAVE TO INSTALL SOFTWARE OR MANAGE HARDWARE.
+
+Q20. If you want to store data in centralized location what will be accessed by all of the other device in your network. You can do this by using a_____________.
+A20. NETWORK ATTACHED STORAGE DEVICE (NAS)
+
+Q21. A network attached storage device is a storage device that is used strictly to________. And it doesn’t do anything else besides it.
+A21. DATA
+
+Q22. NAS will have multiple hard drives in ___________for redundancy and a __________ that directly attached to a switch or router
+A22. RAID CONFIG / NIC
+(SHARED FOLDER/DRIVE)
+
+Q23. SAN stands for _________________
+A23. STORAGE AREA NETWORK
+
+Q24. The network consist of ___________arrays and servers that access this data as if it was a local hard drive because that how operating system recognize a SAN.
+A24. MULTIPLE DISK ARRAYS
+(LOCAL DISK)
+
+Q25. SANs are independent of servers; they are not limited or owned by a single server. (True/False)
+A25. TRUE
+
+Q26. SANs are also easily expandable and very redundant because all the data is shared among______________
+A26. SEVERAL DISK ARRAYS
+
+Q27. A SAN is a high speed network and that because in SAN all the devices are interconnected using __________
+A27. FIBER CHANNEL
+iSCSI alternative
+
+Q28. SAN has a network speed starting at over __________Mbps
+A28. 2000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
