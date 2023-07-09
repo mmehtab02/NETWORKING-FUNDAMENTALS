@@ -1,0 +1,25 @@
+DV300_26_SAS on video related to VLAN and Intranet/ extranet
+
+Q1. VLAN stands for ______________ LAN
+A1. VIRTUAL LOCAL AREA NETWORK
+
+Q2. A VLAN is__________ that controls network traffic regardless of the physicality of the locations
+A2. LOGICAL AREA NETWORK
+
+Q3. How will we separate broadcast activity between the different departments in the same building?
+A3. PHYSICAL MOVE THE COMPUTERS ON THE PROPER FLOOR AND PUT THEM ON THE SAME SUBNET WITH A ROUTER (X)
+EASIER WAY IS TO USE A VLAN SWITCH - YOU CAN LOGICALLY CREATE SEVERAL VIRTUAL NETWORKS TO SEPERATE NETWORK BROADCAST TRAFFIC.
+VLANS CAN BE CREATED BY PORTS ON A VLAN SWITCH, OR THEY CAN BE CREATED BY USING THE MAC ADDRESSES OF THE COMPUTERS.
+
+Q4. An Intranet is a ___________network that belongs to the organizations.
+A4. PRIVATE
+
+Q5. No one outside the company on the intranet can access its data.  (True/False)
+A5. TRUE
+
+Q6. The extranet is ______________ from outside the organization on a restricted basis
+A6. ACCESSIBLE
+
+Q7. Company A can access company B information only if Company B will grant access to company A using extranet. (True/False)
+A7. TRUE
+
