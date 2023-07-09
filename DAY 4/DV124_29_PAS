@@ -1,0 +1,101 @@
+DV300_29_SAS on video related to SOHO Routers
+
+Q1. SOHO Routers stands for _____________router. And these are the common inexpensive routers that are used in homes and small businesses.
+A1. SMALL OFFICE / HOME OFFICE
+
+Q2. SOHO router is fairly easy to set up but if you don’t configure the router correctly you will  not have access to the network. (True/false)
+A2.  TRUE
+
+Q3. To set up or configure your SOHO router you need to go into the router's __________web page. You just open up your web browser and in the address field you would type in the router's IP address.
+A3.   BUILT IN CONFIGURATION
+
+Q4. The configuration page for a CISCO SOHO router and this where you set up the router with ___________settings and make it work for your particular network.
+A4.  CUSTOM
+
+Q5. You can set the SSID which stands for _____________ which is basically the name of the wireless network.
+A5.  SERVICE SET IDENTIFIER
+
+Q6. When a wireless laptops scans for wireless networks to join, it will see the router’s ____________broadcast called ‘my wireless’
+A6.  SSID
+
+Q7. You can set channels for your wireless network to avoid interference by other wireless networks nearby. (True/False)
+A7.   TRUE
+
+Q8. If you click on the wireless security section, you can configure the ______of wireless security.
+A8.  SECURITY
+
+Q9. Routers support following security options such as WEP, WPA, and WPA2. (True/False)
+A9.  TRUE
+
+Q10. _____________is one of the security protocols that are used for wireless networks and as its name implies it is meant to supply the same security to the wireless network as it did for wired networks.
+A10. WEP
+
+Q11. The 40 bit encryption key that WEP used was not secure and it was easily hackable so a better security protocol was needed for wireless. (True/false)
+A11.  TRUE
+
+Q12. ______________ is another wireless security protocol that was developed to solve the security problem of WEP.
+A12.  WPA
+
+Q13. WPA has a stronger encryption method using TKIP which stands for ___________which dynamically changes keys as it is being used. This ensures data integrity.
+A13.  TEMPORAL KEY INTEGRITY PROTOCOL
+
+Q14. WAP uses __________which verifies authorized network users.
+A14.  EAP (EXTENSIBLE AUTHENTICATION PROTOCOL)
+
+Q15. WAP2 was developed to provide even stronger security than WPA by requiring using stronger wireless encryption method. (True/False)
+A15.  TRUE
+
+Q16. CCMP is more secure because it uses an enhanced data _________mechanism and since 2006 WAP2 has been developed on all certified wi-fi hardware.
+A16.  CRYPTOGRAPHIC ENCAPSULATION
+
+Q17. WPS stands for _______________
+A17.  WIFI PROTECTED SETUP
+
+Q18. Method 1 to connect using WPS technology if your client has a Wi-Fi protected setup u just press WPS’s button in the router itself and then you are connected. (True/false)
+A18.  TRUE
+
+Q19. In method 2 if your client has a WPS __________You can just enter this number and press and it register.
+A19.  PIN NUMBER
+
+Q20. In method 3 if your client asks for a ____________number and you just enter the number into your device and then you are connected.
+A20.  ROUTER’S PIN
+
+Q21. Every wireless adapter has a MAC address. An MAC address is a ___________number that uniquely identifies each device on a network.
+A21.  HEXADECIMAL
+
+Q22. MAC filter you can either _____________ access using a device's MAC address.
+A22.  PREVENT OR PERMIT
+
+Q23. DMZ stands for____________.
+A23.   DEMILITARIZED ZONE
+
+Q24. A DMZ allows a designated computer to be fully exposed to the internet. And it does this by the router ________________same time to the designated DMZ computer.
+A24.  FORWARDING ALL PORTS AT
+
+Q25. The DMZ computer is outside the firewall and is not protected.  So why is DMZ used?
+A25.  FOR TESTING PURPOSES
+
+Q26. It is also important to note that DMZ computers must be assigned a ____________and not automatically a DHCP server.
+A26.  STATIC IP ADDRESS
+
+Q27. When a user sends these types of requests to your network from the internet the router will forward the requests to the appropriate computer. (True/false)
+A27.
+
+Q29. A ___________configuration page you have to forward the RDP port to the correct computer.
+A30.  on a port forwarding configuration page
+
+Q30. A guest network is a ____________ network that’s built into a wireless router that your guests can join so they have access to the internet.
+A30.  separate wireless
+
+
+
+
+
+
+
+
+
+
+
+
+
